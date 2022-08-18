@@ -1,5 +1,5 @@
 console.log(null);
 console.log(undefined);
-x= '';
+x='';
 
 console.log(x);
